@@ -11,7 +11,7 @@ Vitzthum|Privatbrauerei Vitzthum          ## @ Uttendorf
 Brauerei Ried|Rieder Bier              ## @ Ried i. Innkreis
 Schnaitl|Privatbrauerei Schnaitl       ## @ Gundertshausen
 
-Stift Engelszell   ## @ Engelshartzell
+Stift Engelszell                       ## @ Engelshartzell
 
-Bogner|Hausbrauerei Bogner    ## @ Braunau
+Bogner|Hausbrauerei Bogner             ## @ Braunau
 

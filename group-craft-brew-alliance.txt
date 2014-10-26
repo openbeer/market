@@ -1,0 +1,20 @@
+#########################################
+#  Craft Brew Alliance @ Portland, OR
+#
+#    craftbrew.com
+#    wikipedia: Craft_Brew_Alliance
+
+
+Redhook Ale Brewery       ##  Seattle, Washington
+Widmer Brothers Brewery   ##  Portland, Oregon
+Kona Brewing Co           ##  Kona, Hawaii
+
+
+#########
+# brands:
+#
+# Redhook
+# Widmer Brothers Brewing
+# Kona Brewing Co
+# Omission Beer
+#

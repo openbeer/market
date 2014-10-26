@@ -1,0 +1,18 @@
+#######################################
+#  Gambrinus Co  @ San Antonio, Texas
+#
+#   www.gambrinus.com
+#
+
+Spoetzl Brewery         ##   @ Shiner, Texas
+BridgePort Brewing Co   ##   @ Portland, Oregon
+
+# partnership w/ Trumer in Austria
+Trumer Brewery - Berkley   ## @ Berkley, California
+
+####
+# brands:
+#   Shiner      (by Spoetzl)
+#   BridgePort
+#   Trumer Pils
+

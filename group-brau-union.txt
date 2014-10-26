@@ -1,0 +1,36 @@
+#############################################
+# Brau Union Österreich @ Linz / Austria (part of Heineken)
+#
+#  www.brauunion.at
+#  de.wikipedia: Brau_Union
+
+
+## 8 breweries
+
+Brauerei Schwechat     # Schwechat, N
+Brauerei Wieselburg    # Wieselburg, N
+
+Brauerei Zipf          # Zip, O
+
+Brauerei Hofbräu Kaltenhausen   # Kaltenhausen (Hallein), S
+
+Brauerei Göss        # Göss (Leoben), ST
+Brauerei Puntigam    # Graz,  ST
+Brauerei Schladming  # Schladming, ST
+
+Brauerei Falkenstein  # Lienz, T (Osttirol)
+
+
+####
+# austrian brands:
+#
+# Zipfer
+# Gösser
+# Puntigamer
+# Wieselburger
+# Edelweiss
+# Reininghaus
+# Kaiser
+# Schwechater
+# Schladminger
+

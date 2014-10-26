@@ -1,0 +1,37 @@
+####################################
+#  North American Breweries (NAB)
+#
+#    www.nabreweries.com
+#
+#   wikipedia: North_American_Breweries
+
+## five U.S. breweries:
+
+Pyramid Breweries (many locations - Washington, California, and Oregon)
+
+Portland Brewing Co (formerly MacTarnahan's - 2004-2013)    ## Portland, Oregon
+
+Magic Hat Brewing Co      ## South Burlington, Vermont
+
+
+Genesee Brewing Co|Genesee Brewery    ##  Rochester, New York
+
+## Dundee is part/division of Genesee Brewing Co (same address) 
+Dundee Brewing Co         ##  Rochester, New York
+
+
+###
+# us brands:
+#    Genesee
+#    Genny Light
+#
+#    Honey Brown              (first brewed by Dundee)
+#    - Original Honey Brown Lager
+#
+#    Magic Hat
+#
+#    Portland Brewing
+#    -   MacTarnahan's Amber Ale 
+#
+#    Pyramid
+
