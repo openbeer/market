@@ -1,0 +1,17 @@
+######################################
+# Bierregion Innviertel / Austria
+#
+#   see innviertelbier.at
+#
+#  7 privatbrauereien
+
+Baumgartner|Brauerei Baumgartner          ## @ Schaerding
+Wurmhöringer|Privatbrauerei Wurmhöringer  ## @ Altheim
+Vitzthum|Privatbrauerei Vitzthum          ## @ Uttendorf
+Brauerei Ried|Rieder Bier              ## @ Ried i. Innkreis
+Schnaitl|Privatbrauerei Schnaitl       ## @ Gundertshausen
+
+Stift Engelszell   ## @ Engelshartzell
+
+Bogner|Hausbrauerei Bogner    ## @ Braunau
+

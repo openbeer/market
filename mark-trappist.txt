@@ -1,0 +1,103 @@
+##################################
+# Trappist Breweries / Authentic Trappist Product (ATP)
+#
+#  10 tappist monasteries
+#
+#  - 6 in Belgium
+#  - 2 in the Netherlands
+#  - 1 in Austria
+#  - 1 in the United States
+
+
+== Belgium ==
+
+Achel|Brouwerij de Achelse Kluis|Brouwerij der Sint-Benedictusabdij de Achelse Kluis, 1998  #  Abbey of Saint Benedict @ Achel
+## 4_500 hl
+## wikipedia: Achel_Brewery
+
+##    Achel Blonde 5°, 5% ABV
+##    Achel Brune 5°, 5% ABV
+##    Achel Blonde 8°, 8% ABV
+##    Achel Brune 8°, 8% ABV
+##    Achel Extra, 9.5% ABV Brune (75cl only)
+##    Achel Extra, 9.5% ABV Blonde (75cl only)
+
+Chimay|Chimay Brewery, 1862    ##  Scourmont Abbey @  Chimay
+## 123_000 hl
+## wikipedia: Chimay_Brewery
+
+## Chimay Red, 7%
+## Chimay Blue, 9%
+## Chimay Triple, 8%
+## Chimay Dorée (Golden), 4.8%
+
+
+Orval|Brasserie d'Orval, 1931    ##  Orval Abbey
+##  45_000 hl
+## wikipedia: Orval_Brewery
+
+## Orval 6.2% abv
+
+
+Rochefort|Brasserie de Rochefort, 1595
+## 18_000 hl
+## wikipedia: Rochefort_Brewery
+
+## Rochefort 6 (red cap, brown beer, 7.5% ABV, 16.5º
+## Rochefort 8 (green cap, brown beer, 9.2% ABV,  20.8º
+## Rochefort 10 (blue cap, dark beer, 11.3% ABV, 24.5º
+
+
+Westmalle|Brouwerij der Trappisten van Westmalle, 1836
+## 120_000 hl (2004)
+## wikipedia: Westmalle_Brewery
+
+## Westmalle Dubbel, 7%
+## Westmalle Tripel, 9.5%
+
+
+Westvleteren|Brouwerij Westvleteren, 1838   ##  Abbey of Saint Sixtus of Westvleteren @ Vleteren
+## 4_750 hl
+
+## Westvleteren Blonde (green cap), 5.8% ABV
+## Westvleteren 8 (blue cap) (formerly Extra), 8% ABV.
+## Westvleteren 12 (yellow cap) (formerly Abt), a 10.2% ABV
+
+
+
+== Netherlands ==
+
+Koningshoeven|Brouwerij de Koningshoeven|La Trappe, 1884  ## @  Berkel-Enschot
+145_000 hl
+wikipedia: De_Koningshoeven_Brewery
+
+
+##  La Trappe Blond (6.5% ABV)
+##  La Trappe Dubbel (7% ABV)
+##  La Trappe Isid'or (7.5% ABV)
+##  La Trappe Tripel (8% ABV)
+##  La Trappe Quadrupel (10% ABV)
+##  La Trappe Quadrupel Oak Aged (10% ABV)
+##  La Trappe Witte Trappist (5.5% ABV)
+##  La Trappe Bockbier (7% ABV) (Seasonal)
+##  La Trappe PUUR (4.7% ABV) (organic)
+
+
+Maria Toevlucht's|Maria Toevlucht's Abbey|De Kievit Trappist Brewery|Zundert, 2013  # Zundert, the Netherlands
+## Zundert
+
+
+== Austria ==
+
+Engelszell|Trappistenbrauerei Engelszell, 2012         # Engelhartszell, Austria 
+
+## Gregorius
+## Benno
+
+
+== United States ==
+
+Spencer Brewery|Spencer, 2013   #  St. Joseph's Abbey @ Spencer, Massachusetts
+
+## Spencer Trappist Ale
+
