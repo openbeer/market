@@ -1,0 +1,177 @@
+########################################
+#  Heineken @ Amsterdam, Netherlands
+#
+#  www.theheinekencompany.com
+#
+#  wikipedia: Heineken_International
+#
+#
+#  owns over 190 breweries in more than 70 countries
+#   139 million hl production/year
+#
+#   115 brewing plants in more than 65 countries (brewing Heineken Pilsner)
+#
+
+
+#######################
+# Europe
+
+Brau Union Österreich  ##  Austria
+
+Heineken Switzerland  ## Switzerland
+Calanda Bräu          ## Switzerland
+
+Starobrno              ## Czech Republic
+Heineken Slovensko     ## Slovakia
+Karlovačka pivovara    ## Croatia
+Heineken Hungária       ## Hungary
+
+Żywiec Brewery         ## Poland
+
+
+Heineken Nederland  ##  Netherlands
+Alken-Maes               ## Belgium
+Heineken France          ## France
+Heineken Italia           ## Italy
+
+
+== England == 
+H. P. Bulmer   ## Hereford in England
+John Smith's   ## Tadcaster, England
+Royal Brewery  ## Manchester, England
+
+Caledonian Brewery  ## Edinburgh, Scotland
+Heineken Ireland  ## Cork, Ireland
+
+Hansa Borg Bryggerier  ## Norway
+
+Heineken Brewery      ## Russia
+Syabar Brewing Company   ## Belarus
+Dinal               ##  Kazakhstan
+
+Heineken Romania      ## Romania
+Zagorka Brewery      ## Bulgaria
+Pivara Skopje       ##  Macedonia
+Pivara MB       ## Serbia
+Pivara Zaječar  ## Serbia
+
+
+Athenian Brewery     ## Greece
+Central de Cervejas    ## Portugal
+Heineken España       ## Spain
+
+
+
+###############################
+# North & Central America
+
+Cervecería Cuauhtémoc Moctezuma    ## Mexico
+Cerveceria Costa Rica              ## Costa Rica
+Cervecerías Barú-Panama            ## Panama
+
+#########################
+# Caribbean
+
+Brasserie Nationale d'Haiti     ## Haiti
+Commonwealth Brewery            ## Bahamas
+Cervecería Nacional Dominicana  ## Dominican Republic
+Desnoes & Geddes                ## Jamaica
+Windward & Leeward Brewery      ## Saint Lucia
+
+#########################
+# South America
+
+Compañía de Cervecerías Unidas Argentina  ## Argentina
+Cervejarias Kaiser              ## Brazil
+CCU Chile                       ## Chile
+Surinaamse Brouwerij            ## Suriname
+
+#########################################
+# Asia
+
+Cambodia Brewery Ltd (CBL)       ## Cambodia
+
+Shanghai Asia Pacific Brewery        ## China
+Hainan Asia Pacific Brewery Company  ## China
+Guangzhou Asia Pacific Brewery       ## China
+
+Multi Bintang Indonesia    ## Indonesia
+Asia Pacific Breweries (Aurangabad) Limited    ## Aurangabad India
+Asia Pacific Breweries-Pearl Private Limited   ## Hyderabad India
+
+Heineken Kirin K. K.       ## Japan
+Lao Asia Pacific Brewery   ## Lao
+Asia Pacific Breweries     ##  Singapore
+Asia Pacific Brewery (Lanka) Limited (APB Lanka)  ## Sri Lanka
+Thai Asia Pacific Brewery   ## Thailand
+Vietnam Brewery             ## Vietnam
+Hatay Brewery               ## Vietnam
+
+
+###########################
+# Pacific
+
+DB Breweries                      ## New Zealand
+South Pacific Brewery Ltd (SPB)   ## Papua New Guinea
+
+
+
+##################################
+# Africa
+
+Société nouvelles des Brasseries SONOBRA  ## Tunisia
+Tango Brewery           ## Algeria
+Groupe Castel Algérie   ## Algeria
+Al Ahram Beverages Company  ## Egypt
+
+Harar Brewery               ## Ethiopia
+Bralirwa                    ## Rwanda
+Brarudi                    ##  Burundi
+Brasseries de Bourbon    ## Réunion
+Brasseries du Cameroun  ## Cameroon
+Brasseries du Congo  ## Congo-Brazzaville
+Bralima                  ## Democratic Republic of the Congo
+Consolidated Breweries   ## Nigeria
+Nigerian Breweries       ## Nigeria
+Guinness Ghana Breweries  ## Ghana
+Namibia Breweries        ## Namibia
+Sierra Leone Brewery Limited  ## Sierra Leone
+
+Sedibeng Brewery         ## South Africa
+
+
+#################
+# middle east
+
+
+Tempo Beer Industries  ## Israel
+General Investment     ## Jordan
+Brasserie Almaza       ## Lebanon
+
+
+
+##############################
+#  brands:
+# over 250 brands in more than 70 countries
+#
+
+# Heineken Pilsener
+# Amstel
+
+
+# Cruzcampo
+# Affligem
+# Żywiec
+# Starobrno
+# Zagorka
+# Birra Moretti
+
+# Tiger Beer
+# Ochota
+# Murphy’s
+# Star
+# John Smith's
+# Newcastle Brown Ale
+
+
+
